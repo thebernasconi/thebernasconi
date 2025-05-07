@@ -6,6 +6,8 @@ I'm a Project Manager that is mutating into a Developer.
 - I'm 40% done with my Bachelor Degree in Computer Science.
 - I'm 100% done with my Bachelor Degree in International Relations.
 
+Here you will find my projects and studies. Plenty to learn yet, but always a bit less than before.
+
 ## What I'm doing and where I'm going
 
 I'm currently focusing on developing my skills as a FullStack Dev and I'm very much interested in the Cybersecurty Industry, where I currently work as a P.M.
