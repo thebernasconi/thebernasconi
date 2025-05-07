@@ -8,6 +8,8 @@ I'm a Project Manager that is mutating into a Developer.
 
 Here you will find my projects and studies. Plenty to learn yet, but always a bit less than before.
 
+I've been putting a lot of work into my studies outside of university as well. Most of them with CodeCademy.
+
 ## What I'm doing and where I'm going
 
 I'm currently focusing on developing my skills as a FullStack Dev and I'm very much interested in the Cybersecurty Industry, where I currently work as a P.M.
