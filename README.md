@@ -12,8 +12,8 @@ I've been putting a lot of work into my studies outside of university as well. M
 
 ## What I'm doing and where I'm going
 
-I'm currently focusing on developing my skills as a FullStack Dev and I'm very much interested in the Cybersecurty Industry, where I currently work as a P.M.
-That said, I've been scouting oportunities for internships and entry level jobs as a proper dev so I can fully focus on it all.
+I'm currently focusing on developing my skills as a FullStack Dev and I'm very much interested in the Cybersecurty Industry.
+Right now I'm in a Q.A. position and the learning curve has been greatly improved.
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
